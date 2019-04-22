@@ -1,0 +1,25 @@
+﻿@model PetIndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <div class="container">
+        @foreach (var item in Model.CatInfoList)
+        {
+            <ul class="list-unstyled">
+                <li>
+                    <span class="font-weight-bold">@item.Gender</span><br/><br/>
+                    <ul class="bulletstyle">
+                        @foreach (var pet in item.Cats)
+                        {
+
+                            <li>@pet</li>
+                        }
+                    </ul>
+                </li>
+            </ul><br/>
+        }
+    </div>
+</div>

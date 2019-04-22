@@ -1,0 +1,9 @@
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\bin\Debug\netcoreapp2.2\PetInfo.Models.deps.json
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\bin\Debug\netcoreapp2.2\PetInfo.Models.dll
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\bin\Debug\netcoreapp2.2\PetInfo.Models.pdb
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.csprojAssemblyReference.cache
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.csproj.CoreCompileInputs.cache
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.AssemblyInfoInputs.cache
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.AssemblyInfo.cs
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.dll
+C:\Users\BCRH64\source\repos\PetInformationClient\PetInfo.Models\obj\Debug\netcoreapp2.2\PetInfo.Models.pdb
